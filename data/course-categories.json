@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "name": "Programming Languages"
+    },
+    {
+        "id": "02",
+        "name": "Information Technology"
+    },
+    {
+        "id": "03",
+        "name": "HSC Rivision Course"
+    },
+    {
+        "id": "04",
+        "name": "Computer Science"
+    },
+    {
+        "id": "05",
+        "name": "Web Designer"
+    },
+    {
+        "id": "06",
+        "name": "Microsoft Office"
+    }
+
+]
