@@ -15,6 +15,11 @@ app.get('/course-categories', (req, res) => {
     res.send(courseCategories)
 });
 
+app.get('/course-categories/:id', (req, res) => {
+    const id = req.params.id;
+
+});
+
 app.listen(port, () => {
     console.log('API Running on Port', port);
 })
